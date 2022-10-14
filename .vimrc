@@ -18,6 +18,11 @@ set mouse=r
 syntax on
 set number
 set wildmenu
+set tabstop=4
+set softtabstop=0 noexpandtab
+set shiftwidth=4
+set hlsearch
+set incsearch
 
 " Disable Arrow keys in Normal mode
 map <up> <nop>
